@@ -34,6 +34,8 @@ def MarvellousRegression(Datapath):
     
     # print(df.isnull().sum())
     
+    print(Border)
+    
     print("Total missing values : ")
     print(Border)
     print(df.isnull().sum().sum())
